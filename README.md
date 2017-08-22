@@ -1,1 +1,1 @@
-# personalWebsite
+# This repository contains the source code for a personal website I will be making to showcase my resume, skills, and projects.
