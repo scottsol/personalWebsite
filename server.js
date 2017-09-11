@@ -3,7 +3,7 @@
 var express = require('express');
 var app = express();
 var path
-app.use(express.static(__dirname + "/public"));
+app.use(express.static(__dirname));
 
 
 app.listen(8000, '0.0.0.0', function() {
